@@ -12,6 +12,7 @@ class Product extends Model
 
     // one product belongs to one category
     public function category(){
+        
         return $this->belongsTo(Category::class);
     }
     public function productSizes(){
