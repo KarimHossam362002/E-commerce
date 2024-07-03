@@ -1,8 +1,5 @@
 ﻿<h1 align="center">E-commerce Website for Clothes Store</h1>
 
-<p align="center">
-  <img src="https://d.top4top.io/p_3101k3svy1.png" alt="E-commerce Logo">
-</p>
 
 <p align="center">
   <strong>A modern and responsive e-commerce platform for clothing stores.</strong>
