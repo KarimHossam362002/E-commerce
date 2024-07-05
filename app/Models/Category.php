@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Category extends Model
 {
     use HasFactory;
-    protected $fillable = ['name', 'image','parent_id'];
+    protected $fillable = ['name','parent_id'];
 
     // one category has many products
     public function products(){

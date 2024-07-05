@@ -335,6 +335,11 @@ return [
             'icon' => 'fas fa-fw fa-user',
         ],
         [
+            'text' => 'Categories',
+            'url' => 'dashboard/categories',
+            'icon' => 'fas fa-fw fa-user',
+        ],
+        [
             'text' => 'Settings',
             'url' => 'dashboard/settings',
             'icon' => 'fas fa-fw fa-user',
