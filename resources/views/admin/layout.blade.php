@@ -1,4 +1,9 @@
 @extends('adminlte::page')
+
+@section('adminlte_css_pre')
+<link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+@endsection
+
 @section('content')
 <h2>Home Page</h2>
 

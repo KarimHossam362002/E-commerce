@@ -2,11 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 
-// Admin Dashboard Routes
-// Route::get('/dashboard' , )
-Route::get('/', function () {
-    return view('welcome');
-});
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 
 Require __DIR__ . '/admin/admin.php';
